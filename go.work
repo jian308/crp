@@ -1,0 +1,8 @@
+go 1.20
+
+use (
+./unpack
+./client
+./server
+./fn
+)

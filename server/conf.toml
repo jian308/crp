@@ -1,0 +1,3 @@
+[common]
+listen = ":8000"
+token = "f61b6e92cc81061e2a3572e27f2c3454"

@@ -1,0 +1,15 @@
+[common]
+server = "127.0.0.1:8000"
+token = "f61b6e92cc81061e2a3572e27f2c3454"
+
+#最大到99
+[proxy_0]
+remote_port = "8001"
+local_addr = "192.168.31.168:3001"
+[proxy_1]
+remote_port = "8002"
+local_addr = "192.168.31.168:3002"
+[proxy_8]
+remote_port = "8008"
+local_addr = "192.168.31.168:3008"
+
